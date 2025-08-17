@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Hang031207, you can just call me Hang, I'm currently a year 3 student @ NTU Singapore
-- 🌱 I’m currently learning many things, like python and GitHub, and possibly machine learning and AI stuff at the future
+- 👋 Hi, I’m Hang, a final year student studying Aerospace Engineering @ NTU Singapore
+- 🌱 Currently focus is drone control and navigation (robotics stuff), my final year project...
 - 📫 You can email me by cheehang031207@gmail.com, I'll try my best to reply to any request as fast as I can🔥
 
 <!---
